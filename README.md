@@ -16,7 +16,7 @@ Na podstawie pobranych danych powstaje rejestr sprzedaży, rejestr zwrotów i ze
 ## Dane techniczne
 
 - typ aplikacji: device flow (OAuth 2.0), jedno konto sprzedawcy,
-- nagłówek User-Agent: `Ryczałtomat/<wersja> (+https://github.com/Buczuuu/Ryczaltomat-info)`, np. `Ryczałtomat/1.0.0 (+https://github.com/Buczuuu/Ryczaltomat-info)`.
+- nagłówek User-Agent: `Ryczaltomat/<wersja> (+https://github.com/Buczuuu/Ryczaltomat-info)`, np. `Ryczaltomat/1.0.0 (+https://github.com/Buczuuu/Ryczaltomat-info)`.
 
 ## Kontakt
 
